@@ -2,23 +2,6 @@
 
 ## Project setup
 ```
-pnpm install
+仅仅提供一些api封装思路
+在shared/api中，建立你所需要的业务api模块
 ```
-
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
-
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Lints and fixes files
-```
-pnpm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
